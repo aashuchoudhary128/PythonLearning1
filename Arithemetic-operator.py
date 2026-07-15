@@ -1,0 +1,8 @@
+a=int(int(input("Enter the first number:")))
+b=int(int(input("Enter the second number:")))
+print(f"The Addition of {a} and {b}  is: {a+b}")
+print(f"The Subtraction of {a} and {b}  is: {a-b}")
+print(f"The Multiplication of {a} and {b}  is: {a*b}")
+print(f"The Division of {a} and {b}  is: {a/b}")
+print(f"The Floor Division of {a} and {b}  is: {a//b}")
+print(f"The Modulo of {a} and {b} is: {a%b}")
